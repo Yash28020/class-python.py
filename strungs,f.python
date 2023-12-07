@@ -1,0 +1,3 @@
+a = "I am yash" 
+name = "yash" 
+print(a.format(name))
